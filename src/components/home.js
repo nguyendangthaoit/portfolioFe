@@ -35,7 +35,7 @@ function Home() {
                 <div className="container">
                     <div className="banner-text text-center">
                         <h2 data-aos="fade-right">I am  Thao Nguyen</h2>
-                        <h3 data-aos="fade-left"> - senior front end developer - </h3>
+                        <h3 data-aos="fade-left"> - senior front-end developer - </h3>
                         <p data-aos="flip-left">Let's build something cool together. </p>
                         <div className="w3l-button banner-btn">
                             <a href={MyPDF} target="_blank" download={'ThaoNguyen_Resume'}>My Resume</a>
